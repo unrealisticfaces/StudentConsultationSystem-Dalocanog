@@ -1,0 +1,18 @@
+[2026-05-22 20:18:51] [SYSTEM] Created Data directory.
+[2026-05-22 20:18:51] [SYSTEM] Created records.txt file.
+[2026-05-22 20:19:23] [READ] Loaded 0 records from file.
+[2026-05-22 20:19:23] [ADD] Added new record for Keith David Dalocanog (ID: C3BC0A54)
+[2026-05-22 20:19:33] [READ] Loaded 1 records from file.
+[2026-05-22 20:19:44] [READ] Loaded 1 records from file.
+[2026-05-22 20:19:47] [READ] Loaded 1 records from file.
+[2026-05-22 20:20:03] [READ] Loaded 1 records from file.
+[2026-05-22 20:20:07] [READ] Loaded 1 records from file.
+[2026-05-22 20:20:07] [UPDATE] Updated record C3BC0A54
+[2026-05-22 20:20:12] [READ] Loaded 1 records from file.
+[2026-05-22 20:20:12] [REPORT] Generated Subject Summary Report at Data\Report_20260522_202012.txt
+[2026-05-22 20:20:16] [SYSTEM] Application exited normally.
+[2026-05-22 20:20:25] [READ] Loaded 1 records from file.
+[2026-05-22 20:20:30] [SYSTEM] Application exited normally.
+[2026-05-22 20:25:54] [READ] Loaded 1 records from file.
+[2026-05-22 20:26:34] [SYSTEM] Application exited normally.
+[2026-05-22 20:31:19] [READ] Loaded 1 records from file.

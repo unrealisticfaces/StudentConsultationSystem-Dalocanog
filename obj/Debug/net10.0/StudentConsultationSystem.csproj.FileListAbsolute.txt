@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\StudentConsultationSystem\bin\Debug\net10.0\StudentConsultationSystem.exe
+C:\Users\Administrator\source\repos\StudentConsultationSystem\bin\Debug\net10.0\StudentConsultationSystem.deps.json
+C:\Users\Administrator\source\repos\StudentConsultationSystem\bin\Debug\net10.0\StudentConsultationSystem.runtimeconfig.json
+C:\Users\Administrator\source\repos\StudentConsultationSystem\bin\Debug\net10.0\StudentConsultationSystem.dll
+C:\Users\Administrator\source\repos\StudentConsultationSystem\bin\Debug\net10.0\StudentConsultationSystem.pdb
+C:\Users\Administrator\source\repos\StudentConsultationSystem\obj\Debug\net10.0\StudentConsultationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\StudentConsultationSystem\obj\Debug\net10.0\StudentConsultationSystem.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\StudentConsultationSystem\obj\Debug\net10.0\StudentConsultationSystem.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\StudentConsultationSystem\obj\Debug\net10.0\StudentConsultationSystem.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\StudentConsultationSystem\obj\Debug\net10.0\StudentConsultationSystem.dll
+C:\Users\Administrator\source\repos\StudentConsultationSystem\obj\Debug\net10.0\refint\StudentConsultationSystem.dll
+C:\Users\Administrator\source\repos\StudentConsultationSystem\obj\Debug\net10.0\StudentConsultationSystem.pdb
+C:\Users\Administrator\source\repos\StudentConsultationSystem\obj\Debug\net10.0\StudentConsultationSystem.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\StudentConsultationSystem\obj\Debug\net10.0\ref\StudentConsultationSystem.dll

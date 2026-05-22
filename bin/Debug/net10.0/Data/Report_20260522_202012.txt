@@ -1,0 +1,7 @@
+========================================
+  ACTIVE CONSULTATIONS SUMMARY REPORT   
+  Generated: 5/22/2026 8:20:12 PM           
+========================================
+Total Active Consultations: 1
+
+- PE-101: 1 consultation(s)
